@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Cindy Mendoza
 
-<!--
-**CindyMendoza-f/CindyMendoza-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Profesional en Turismo y Hotelería que decidió hacer un cambio de rumbo y enamorarse del mundo de los datos.  
+💡 Apasionada por el análisis, la visualización y la toma de decisiones basadas en datos.  
+📈 Graduada del bootcamp de tecnología en TripleTen, donde desarrollé proyectos aplicando Python, SQL, Tableau y Power BI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vengo del sector turístico y hotelero, donde fortalecí mis habilidades en liderazgo y gestión.  
+Con el tiempo, descubrí mi interés por el análisis y decidí expandir mi perfil profesional hacia el mundo de los datos.
+
+---
+
+## 🚀 Sobre mí
+
+- 🔄 Transición profesional: del turismo al análisis de datos.
+- 📊 Me encanta descubrir patrones y resolver problemas usando datos reales.
+- 🌱 Siempre estoy aprendiendo cosas nuevas y mejorando mis habilidades técnicas.
+- 🤝 Abierta a colaborar en proyectos de datos e inteligencia de negocios.
